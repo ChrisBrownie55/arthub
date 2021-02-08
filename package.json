@@ -28,7 +28,7 @@
     "framer-motion": "^2.0.0-beta.77",
     "gravatar": "^1.8.1",
     "ky": "^0.20.0",
-    "marked": "^1.2.5",
+    "marked": "^2.0.0",
     "mini-debounce": "^1.0.8",
     "prop-types": "^15.7.2",
     "react": "0.0.0-experimental-3310209d0",
